@@ -4,7 +4,7 @@
 
 A simple YouTube clone application from scratch using `React` and `YouTube API` which is used to search and display Videos and deployed on [Netlify](https://www.netlify.com/).
 
-- To view the Deployed Application, click on the link given below : ***YouTube Search Clone Application - *** [https://youtube-search-clone-app.netlify.app/](https://youtube-search-clone-app.netlify.app/)
+- To view the Deployed Application, click on the link given below : **YouTube Search Clone Application - ** [https://youtube-search-clone-app.netlify.app/](https://youtube-search-clone-app.netlify.app/)
 
 
 ### The main purpose of this project is to learn - 
