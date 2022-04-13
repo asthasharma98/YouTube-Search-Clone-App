@@ -20,7 +20,7 @@ A simple YouTube clone application from scratch using `React` and `YouTube API` 
 
 This project is great for learning React because is covers a lot of concepts that appear often in reactjs workflow. We're going to mention lifecycle methods, project structure, destructuring, state management, passing props from parent to child components, API calls and much more.  
 
-- **To Generate API key follow the given link - ** [https://console.cloud.google.com/](https://console.cloud.google.com/)
+- **To Generate API key follow the given link -** [https://console.cloud.google.com/](https://console.cloud.google.com/)
 
 
 ### Getting Started with Create React App
